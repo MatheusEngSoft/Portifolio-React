@@ -9,9 +9,9 @@ export default function Info(){
         <p>Email: <br/>matheus.engsof@gmail.com</p>
       </div>
       <div className="flex justify-end space-x-4 mr-48">
-        <a href=""><FaGithub size={65}/></a>
-        <a href=""><FaLinkedin size={65}/></a>
-        <a href=""><FaInstagram size={65}/></a>
+        <a href="https://github.com/MatheusEngSoft"><FaGithub size={65}/></a>
+        <a href="https://www.linkedin.com/in/matheus-santos-736909290/"><FaLinkedin size={65}/></a>
+        <a href="https://www.instagram.com/zmatheus.cf/"><FaInstagram size={65}/></a>
       </div>
     </div>
   )

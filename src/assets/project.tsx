@@ -1,5 +1,7 @@
 import Card from "./components/cads";
 import lpdnc from "./img/Lpdnc.jpg"
+import projetobase from "./img/projetobase600.png"
+import weatherdnc from "./img/weatherdnc600.png"
 
 
 export default function Project(){
@@ -17,25 +19,18 @@ export default function Project(){
         site={'https://minha-primeira-landing-page.netlify.app/'}
         />
         <Card
-        img={lpdnc}
-        title={'LP - DNC'}
-        description={'Desenvolvimento de uma Landing Page para o lançamento da formação em tecnologia'}
-        repo={"https://github.com/MatheusEngSoft/projeto-landing-page"}
-        site={'https://minha-primeira-landing-page.netlify.app/'}
+        img={projetobase}
+        title={'Arquitetura'}
+        description={'Desenvolvimento de um site de Arquitetura'}
+        repo={"https://github.com/MatheusEngSoft/ProjetoBase"}
+        site={'https://projeot-base.netlify.app/'}
         />
         <Card
-        img={lpdnc}
-        title={'LP - DNC'}
-        description={'Desenvolvimento de uma Landing Page para o lançamento da formação em tecnologia'}
-        repo={"https://github.com/MatheusEngSoft/projeto-landing-page"}
-        site={'https://minha-primeira-landing-page.netlify.app/'}
-        />
-        <Card
-        img={lpdnc}
-        title={'LP - DNC'}
-        description={'Desenvolvimento de uma Landing Page para o lançamento da formação em tecnologia'}
-        repo={"https://github.com/MatheusEngSoft/projeto-landing-page"}
-        site={'https://minha-primeira-landing-page.netlify.app/'}
+        img={weatherdnc}
+        title={'Weather'}
+        description={'Desenvolvimento de um site para saber a sua cidade e temperatura em tempo real'}
+        repo={"https://github.com/MatheusEngSoft/DNCWeather"}
+        site={'https://dncweather2024.netlify.app/'}
         />
       </div>
     </div>

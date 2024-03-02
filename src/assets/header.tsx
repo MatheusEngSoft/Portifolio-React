@@ -9,9 +9,9 @@ export default function Header() {
         <a href="#info"><p className="mx-10">Informações</p></a>
       </div>
       <div className="flex items-center ml-72 mr-48">
-        <a href=""><FaGithub size={32}/></a>
-        <a href=""><FaLinkedin size={32} className="mx-5"/></a>
-        <a href=""><FaInstagram size={32} className="mr-20"/></a>
+        <a href="https://github.com/MatheusEngSoft"><FaGithub size={32}/></a>
+        <a href="https://www.linkedin.com/in/matheus-santos-736909290/"><FaLinkedin size={32} className="mx-5"/></a>
+        <a href="https://www.instagram.com/zmatheus.cf/"><FaInstagram size={32} className="mr-20"/></a>
       </div>
     </div>
   )
