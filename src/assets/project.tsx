@@ -2,6 +2,7 @@ import Card from "./components/cads";
 import lpdnc from "./img/Lpdnc.jpg"
 import projetobase from "./img/projetobase600.png"
 import weatherdnc from "./img/weatherdnc600.png"
+import portifolio from "./img/portifolio600.png"
 
 
 export default function Project(){
@@ -30,6 +31,13 @@ export default function Project(){
         title={'Weather'}
         description={'Desenvolvimento de um site para saber a sua cidade e temperatura em tempo real'}
         repo={"https://github.com/MatheusEngSoft/DNCWeather"}
+        site={'https://dncweather2024.netlify.app/'}
+        />
+        <Card
+        img={portifolio}
+        title={'Portifolio'}
+        description={'Desenvolvimento de um Portifolio em React'}
+        repo={"https://github.com/MatheusEngSoft/Portifolio-React"}
         site={'https://dncweather2024.netlify.app/'}
         />
       </div>
