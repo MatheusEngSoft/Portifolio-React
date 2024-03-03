@@ -38,7 +38,7 @@ export default function Project(){
         title={'Portifolio'}
         description={'Desenvolvimento de um Portifolio em React'}
         repo={"https://github.com/MatheusEngSoft/Portifolio-React"}
-        site={'https://dncweather2024.netlify.app/'}
+        site={'https://portifoli2024.netlify.app/'}
         />
       </div>
     </div>
