@@ -25,7 +25,7 @@ export default function App() {
         </section>
       </main>
 
-      <footer id='info' className=''>
+      <footer id='info'>
         <Info />
       </footer>
     </div>
