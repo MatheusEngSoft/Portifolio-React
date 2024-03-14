@@ -1,4 +1,4 @@
-import React, { useState,} from 'react';
+import { useState,} from 'react';
 import Apresentation from './apresentation';
 import AboutMe from './aboutme';
 import Info from './info';
@@ -18,10 +18,11 @@ export default function App() {
   return (
     <div className={`flex flex-col  ${style === 'background' ? '' : 'bg-slate-900 text-zinc-50'}`}>
       <main className='flex flex-1 flex-col' style={style === 'background' ? { backgroundImage: `url(${backgroundImage})`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center center', backgroundAttachment: 'fixed', backgroundSize: 'cover' } : {}}>
-        <section>
+        <section className="flex flex-col items-center justify-center">
           <Header /> 
-          <button onClick={toggleBackground} className='bg-gradient-to-r from-[#13ADC7] via-[#6978D1] to-[#945DD6] ml-32 mt-16 w-15 h-10 rounded-full text-2xl font-semibold"'>L/D</button> 
+          <button onClick={toggleBackground} className="absolute w-16 bottom-16 right-16 bg-neutral-900 dark:bg-white rounded-full text-white dark:text-black font-semibold">{style === "background" ? "IMG": "N/IMG"}</button> 
         </section>
+
         <section className='my-5'>
           <Apresentation />
         </section>
