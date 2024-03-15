@@ -37,7 +37,7 @@ e tambem o botão para trocar o background da pagina<br>
 Na parte dos Projetos, ficam cards dinamicos que levam as pessoas tanto ao site do projeto quanto ao gitHub do mesmo<br>
 no rodapé tem as minhas informações</p>
 <h2>Executando o Projeto</h2>
-<p>Clone o repositório do GitHub: git clone https://github.com/MatheusEngSoft/Portifolio-React.git<br>
+<p>Clone o repositório do GitHub: git clone `https://github.com/MatheusEngSoft/Portifolio-React.git`<br>
 Acesse o diretório do projeto: cd seuprojeto<br>
 Instale as dependências: npm install
 Execute o projeto: npm start</p>
