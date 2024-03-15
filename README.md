@@ -43,7 +43,7 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 **Node.js:** Certifique-se de ter o Node.js instalado em sua máquina. Você pode baixar a versão mais recente em [nodejs.org](https://nodejs.org/en). Recomenda-se utilizar a versão 20.11.1 ou superior.
 
-**npm ou Yarn:** Você precisará do npm ou do Yarn para instalar as dependências do projeto. O npm geralmente é instalado automaticamente com o Node.js. Verifique se você tem executando npm -v no terminal.
+**npm:** Você precisará do npm ou do Yarn para instalar as dependências do projeto. O npm geralmente é instalado automaticamente com o Node.js. Verifique se você tem executando npm -v no terminal.
 
 **Git (Opcional):** Se preferir clonar o repositório do projeto em vez de baixá-lo como um arquivo compactado, você precisará do Git instalado em sua máquina. Você pode baixá-lo em [git-scm.com](https://git-scm.com/).
 
@@ -59,12 +59,10 @@ npm install
 npm run dev
 ```
 
-## Casos de Uso
+## Principais melhorias entre a primeira e a segunda versão
 
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
-
-Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
-
+- A possibilidade de poder alternar entre dois background um com imagem e outro sem imagem
+- A movimentação tanto dos cards dos projetos quanto os botões para melhorar a visualização do usuario quando passar o mouse
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
