@@ -6,7 +6,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Layout ou Deploy da Aplicação](#layout-ou-deploy-da-aplicação).
+:small_blue_diamond: [Layout ou Deploy da Aplicação](#deploy).
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
