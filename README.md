@@ -6,7 +6,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [[Layout ou Deploy da Aplicação]](https://github.com/MatheusEngSoft/Portifolio-React/blob/main/README.md#layout-ou-deploy-da-aplica%C3%A7%C3%A3o-dash)(#deploy).
+:small_blue_diamond: [[Layout ou Deploy da Aplicação]](https://github.com/MatheusEngSoft/Portifolio-React/blob/main/README.md#layout-ou-deploy-da-aplica%C3%A7%C3%A3o-dash)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
