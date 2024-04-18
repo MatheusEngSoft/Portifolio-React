@@ -12,7 +12,7 @@
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-:small_blue_diamond: [Principais melhorias entre a primeira e a segunda versão]_(https://github.com/MatheusEngSoft/Portifolio-React/blob/main/README.md#principais-melhorias-entre-a-primeira-e-a-segunda-vers%C3%A3o)
+:small_blue_diamond: [[Principais melhorias entre a primeira e a segunda versão]](https://github.com/MatheusEngSoft/Portifolio-React/blob/main/README.md#principais-melhorias-entre-a-primeira-e-a-segunda-vers%C3%A3o)
 
 ... 
 
