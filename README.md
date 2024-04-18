@@ -14,6 +14,8 @@
 
 :small_blue_diamond: [[Principais melhorias entre a primeira e a segunda versão]](https://github.com/MatheusEngSoft/Portifolio-React/blob/main/README.md#principais-melhorias-entre-a-primeira-e-a-segunda-vers%C3%A3o)
 
+:small_blue_diamond: [[Linguagens, dependencias e libs utilizadas]](https://github.com/MatheusEngSoft/Portifolio-React/blob/main/README.md#linguagens-dependencias-e-libs-utilizadas-books)
+
 ... 
 
 ## Descrição do projeto 
